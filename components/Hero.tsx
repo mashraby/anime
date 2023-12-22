@@ -23,7 +23,7 @@ function Hero() {
             href={"https://t.me/MashrabYoldashov"}
             target="_blank"
           >
-            @Mashrab Yo'ldashov
+            @Mashrab Yoldashov
           </Link>
         </p>
       </div>
